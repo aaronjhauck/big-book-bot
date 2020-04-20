@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aaronjhauck/big-book-bot#readme",
   "dependencies": {
+    "node-blutils": "^1.0.1",
     "twit": "^2.2.11"
   }
 }
