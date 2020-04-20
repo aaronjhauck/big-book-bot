@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aaronjhauck/big-book-bot/issues"
   },
-  "homepage": "https://github.com/aaronjhauck/big-book-bot#readme"
+  "homepage": "https://github.com/aaronjhauck/big-book-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
 }
